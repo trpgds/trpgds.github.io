@@ -456,7 +456,7 @@
 
 .qG7M53SaP1AFxkJ7QtYO.pYQN8QqW72R_7W_qwJEr {
     color: rgb(54, 22, 22);
-    background-color: #ff9494;
+    background-color: #cab4c6;
 }
 
 .oTGKsDGZpkau9C1susEa.NlPgiNy5dV4Euyaoe_wt {
@@ -853,6 +853,16 @@
     border-radius: 5px;
     font-weight: bold;
 }
+.mTvl5KC_iQM_wLTGcdr7 {
+    display: flex;
+    flex-direction: column;
+}
+
+._OoDYE8etAieqof6EPhG {
+    word-break: break-all;
+    font-family: var(--font-m);
+    padding: 5px;
+}
 .nmsvFfZkngZIqbIajjaO {
     display: flex;
     flex-direction: column;
@@ -894,4 +904,4 @@
     font-style: italic;
 }
 
-/*# sourceMappingURL=index.css.map?cd76d082271232b42281*/
+/*# sourceMappingURL=index.css.map?2d5843f6b0b85b8df607*/
