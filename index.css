@@ -818,6 +818,8 @@
     background: white;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
     animation: _zAY6Yg29IpqhOiVXt5w 0.3s normal;
+
+    margin-bottom: 30px;
 }
 
 @keyframes _zAY6Yg29IpqhOiVXt5w {
@@ -955,4 +957,4 @@
     font-style: italic;
 }
 
-/*# sourceMappingURL=index.css.map?a73755f8676aa7e387e6*/
+/*# sourceMappingURL=index.css.map?42b0097310430907b661*/
